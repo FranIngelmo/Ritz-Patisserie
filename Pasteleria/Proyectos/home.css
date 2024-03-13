@@ -175,7 +175,7 @@ p {
     text-align: center;
     border-radius: 50%;
     color: #fff;
-    background: #151;
+    background: #115511;
     font-size: 1.7rem;
     margin: 1rem 0;
 }
@@ -221,7 +221,7 @@ p {
     text-align: center;
     border-radius: 50%;
     color: #fff;
-    background: #151;
+    background: #115511; /*Color de mostrar recetas*/
     font-size: 2rem;
     margin: 1rem 0;
 }
