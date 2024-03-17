@@ -50,10 +50,18 @@ li {
     flex-direction: row;
 }
 
-.paisajes {
-    flex: 1;
+.galletas {
+    flex: 0.25;
 }
 
-.hospe {
-    flex: 1;
+.macarons {
+    flex: 0.25;
+}
+
+.pavlovas {
+    flex: 0.25;
+}
+
+.surtidas {
+    flex: 0.25;
 }
