@@ -111,7 +111,7 @@ p {
     display: inline-block;
     margin-top: 15px;
     padding: 10px 40px;
-    border: 2px solid #131;
+    border: 2px solid #131; /*Botones de login y register*/
     color: #fff;
     text-decoration: none;
     background: #131;
@@ -119,7 +119,7 @@ p {
 }
 
 .btn:hover {
-    background: #141;
+    background: #141; /*Cuando pones el mouse encima del boton login o register*/
 }
 
 .btn-home {
@@ -275,7 +275,7 @@ p {
 
 footer {
     padding-top: 0px;
-    background: #121;
+    background: #f6a817; /*Color de la partee inferior del menu*/
     padding-bottom: 0;
 }
 
